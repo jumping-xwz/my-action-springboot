@@ -1,6 +1,3 @@
-server:
-  port: 8080
-
-book:
-  author: wangyunfei
-  name: spring boot
+spring:
+  profiles:
+    active: dev

@@ -1,0 +1,6 @@
+server:
+  port: 9999
+
+book:
+  author: wangyunfei
+  name: spring boot
